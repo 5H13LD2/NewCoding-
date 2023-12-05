@@ -1,2 +1,3 @@
-# NewCoding-
+Jimenez Jerico
+
 new repo
